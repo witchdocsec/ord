@@ -19,4 +19,5 @@ int main(){
 		stped = showord();
 	}
 	endwin();
+	return 0;
 }
